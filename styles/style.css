@@ -44,11 +44,6 @@
   color: #2f80ed;
 }
 
-.header__link::after {
-  content: counter();
-}
-
-
 .header__main-illustration {
   position: absolute;
   right: 0;
@@ -174,7 +169,7 @@
 }
 
 .feinman {
-  height: 790px;
+  min-height: 790px;
   background-image: url(../images/feynman.png);
   background-position: left bottom;
   background-size: 867px 637px;
