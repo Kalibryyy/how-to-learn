@@ -71,7 +71,7 @@
   z-index: 1;
   width: 183px;
   height: 32px;
-  background-image: url(../images/logo_place_header.svg)
+  background-image: url(../images/logo_place_header.svg);
 }
 
 .description {
@@ -303,5 +303,5 @@
 .logo_place_footer {
   width: 183px;
   height: 35px;
-  background-image: url(../images/logo_place_footer.svg)
+  background-image: url(../images/logo_place_footer.svg);
 }
